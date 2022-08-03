@@ -3,4 +3,4 @@ Electronic Circuit Designer
 Firmware & Software Developer  
 Programmer C,C++,C#,Java  
 RHEL & Fedora user  
-Learning Go & want to learn Rust,JS
+Learning Go & want to learn Rust & JS
