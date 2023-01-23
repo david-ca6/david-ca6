@@ -96,10 +96,10 @@
 
 [![wakatime](https://wakatime.com/badge/user/187b483b-8e3a-408f-8b19-1e20ca618488.svg)](https://wakatime.com/@187b483b-8e3a-408f-8b19-1e20ca618488)
 
+<img src="https://wakatime.com/share/@David_ca6/0d756708-2a49-413b-96cc-f150a9c94e35.svg"/>
+
 [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=David_ca6&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=david-ca6&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=david-ca6&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=david-ca6&label=Profile%20Visits&color=003df5&style=flat" alt="visit" /> </p>
