@@ -93,7 +93,8 @@
 
 
 <h3 align="left">Stats</h3>
-(Wakatime SINCE JAN 21 2023)
+(Wakatime SINCE JAN 21 2023)  
+
 [![wakatime](https://wakatime.com/badge/user/187b483b-8e3a-408f-8b19-1e20ca618488.svg)](https://wakatime.com/@187b483b-8e3a-408f-8b19-1e20ca618488)
 
 [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=David_ca6&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
