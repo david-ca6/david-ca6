@@ -8,6 +8,8 @@
 <br>
 <h3 align="left">Languages I've learned or am learning:</h3>
 
+  
+
 <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 </a>
@@ -93,8 +95,7 @@
 
 
 <h3 align="left">Stats</h3>
-(Wakatime SINCE JAN 21 2023)  
 
-[![wakatime](https://wakatime.com/badge/user/187b483b-8e3a-408f-8b19-1e20ca618488.svg)](https://wakatime.com/@187b483b-8e3a-408f-8b19-1e20ca618488)
-
+[![wakatime](https://wakatime.com/badge/user/187b483b-8e3a-408f-8b19-1e20ca618488.svg)](https://wakatime.com/@187b483b-8e3a-408f-8b19-1e20ca618488) (Wakatime SINCE JAN 21 2023)  <br><br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=david-ca6&&count_private=truetheme=onedark)](https://github.com/ryo-ma/github-profile-trophy)<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=david-ca6&label=Profile%20Visits&color=003df5&style=flat" alt="visit" /> </p>
