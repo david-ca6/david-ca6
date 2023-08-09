@@ -5,10 +5,14 @@
    Electronic Circuit Designer <br>
    Firmware & Software Developer
 </h3>
+I am a Firmware & Software Developer. <br>
+I have been programming for about 15 years.<br>
+My primary language is C, but I have used a lot of other languages over the years, like C++, C#, etc.<br>
+I recently started learning JavaScript.<br>
+FR/EN<br>
 <br>
-<h3 align="left">Languages I've learned or am learning:</h3>
 
-  
+<h3 align="left">Languages I've learned or am learning:</h3>
 
 <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -38,6 +42,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="python" width="40" height="40"/>
 </a>
 
+<a href="#" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="python" width="40" height="40"/>
+</a>
+<br>
 
 <h3 align="left">Tools I've learned and use:</h3>
 
@@ -68,7 +76,7 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 </a>
-
+<br>
 
 <h3 align="left">OS  I've learned and use:</h3>
 
@@ -92,7 +100,7 @@
 <a href="https://www.microsoft.com/windows/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
 </a>
-
+<br>
 
 <h3 align="left">Stats</h3>
 
