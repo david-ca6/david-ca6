@@ -6,7 +6,7 @@
    Firmware & Software Developer
 </h3>
 I am a Firmware & Software Developer. <br>
-I have been programming for about 15 years.<br>
+I have been programming for about 15 years, starting with Basic.<br>
 My primary language is C, but I have used a lot of other languages over the years, like C++, C#, etc.<br>
 I recently started learning JavaScript.<br>
 FR/EN<br>
