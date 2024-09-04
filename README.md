@@ -30,21 +30,26 @@ FR/EN<br>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 </a>
 
+<a href="#" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
+</a>
+
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</a>
+
+<a href="#" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/>
+</a>
+
+<a href="https://ziglang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zig/zig-original.svg" alt="zig" width="40" height="40"/>
+</a>
+
 <a href="https://go.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
 </a>
 
-<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
-</a>
-
-<a href="#" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="python" width="40" height="40"/>
-</a>
-
-<a href="#" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="python" width="40" height="40"/>
-</a>
 <br>
 
 <h3 align="left">Tools I've learned and use:</h3>
@@ -72,10 +77,6 @@ FR/EN<br>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
 </a>
-
-<a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-</a>
 <br>
 
 <h3 align="left">OS  I've learned and use:</h3>
@@ -101,9 +102,3 @@ FR/EN<br>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
 </a>
 <br>
-
-<h3 align="left">Stats</h3>
-
-[![wakatime](https://wakatime.com/badge/user/187b483b-8e3a-408f-8b19-1e20ca618488.svg)](https://wakatime.com/@187b483b-8e3a-408f-8b19-1e20ca618488) (Wakatime SINCE JAN 21 2023)  <br><br>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=david-ca6&label=Profile%20Visits&color=003df5&style=flat" alt="visit" /> </p>
