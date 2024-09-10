@@ -101,4 +101,6 @@ FR/EN<br>
 <a href="https://www.microsoft.com/windows/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
 </a>
-<br>
+<br><br>
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J712L3R8)
