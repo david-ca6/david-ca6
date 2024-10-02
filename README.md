@@ -13,7 +13,7 @@ FR/EN<br>
 <br>
 
 
-<h3 align="left">Main Language I use Daily:</h3>
+<h3 align="left">Language I use Daily:</h3>
 
 <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -27,7 +27,7 @@ FR/EN<br>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
 </a>
 
-<h3 align="left">Languages I've learned or am learning:</h3>
+<h3 align="left">Languages I've learned:</h3>
 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
@@ -55,7 +55,7 @@ FR/EN<br>
 
 <br>
 
-<h3 align="left">Tools I've learned and use:</h3>
+<h3 align="left">Tools I use:</h3>
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
@@ -82,8 +82,7 @@ FR/EN<br>
 </a>
 <br>
 
-<h3 align="left">OS  I've learned and use:</h3>
-
+<h3 align="left">OS I use:</h3>
 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
