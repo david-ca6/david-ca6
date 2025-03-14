@@ -37,16 +37,8 @@ FR/EN<br>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
 </a>
 
-<a href="https://www.w3schools.com/java/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-</a>
-
 <a href="#" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/>
-</a>
-
-<a href="https://ziglang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zig/zig-original.svg" alt="zig" width="40" height="40"/>
 </a>
 
 <a href="https://go.dev/" target="_blank" rel="noreferrer">
